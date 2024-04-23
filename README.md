@@ -1,6 +1,7 @@
 -  Hi, I’m @Bharatpandey30
 -  I’m interested in exploring new technologies and contributing to exciting projects.
 -  I’m currently learning and enhancing my skills in Full Stack Development.
+-  I'm also dedicating my time to enhance my skills as a data analyst to broaden my expertise.
 -  I’m looking to collaborate on innovative projects that make a positive impact.
 -  How to reach me: [Bharatpandey361@gmail.com]
 -  Pronouns: He/Him
